@@ -18,4 +18,4 @@ SymmetryLabs, was a small avante-garde lighting company founded by Alex Green, w
 
 ### Related Work
 
-[Harmonic Language](http://harmoniclanguage.io) is a sound based translation and introspection tool to analyze the raw waveforms of society through sound.  This project is separate from SynaesthesiaFlow, however they will mutually enhance one another.
+[Harmonic Language](http://www.harmoniclanguage.io) is a sound based translation and introspection tool to analyze the raw waveforms of society through sound.  This project is separate from SynaesthesiaFlow, however they will mutually enhance one another.
